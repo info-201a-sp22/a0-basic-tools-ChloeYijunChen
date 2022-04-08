@@ -13,14 +13,17 @@ What's worse, technical companies hire even fewer numbers of women employees to 
 1. **Who or what institution produced the visualization?**
 
   Catherine D'lgnazio produced the visualization.
+
 2. **When was it produced?**
 
   It was produced in 2015.
+
 3. **Who is the audience for the visualization? Who might be impacted, either directly or indirectly, by the visualization?**
 
   Academic institutions may be on of the audience for the visualization. They may be impacted directly to give equal opportunities for all the students regardless of their gender, race, ethnicity, or belief. Also, academic institutions may encourage women students to engage in computer science and research programs.
 
   Technical companies may be the other main audience for the visualization, and they might be impacted directly to change their hiring policies.
+
 4. **What values, goals, or interests are at stake with the visualization?**
 
   The value and goal of representing people of different gender, race, and ethnicity is at stake with the visualization.
@@ -28,6 +31,7 @@ What's worse, technical companies hire even fewer numbers of women employees to 
 5. **What can be learned from the visualization?**
 
   There is a lot to do and to change about the current situation of male and white dominance in the computer science area.
+  
 6. **What issues, if any, related to power and justice are reflected in the data visualization?**
 
   One of the issues would be the algorithm that technical companies use to screen its first-round job applicants. The algorithm only compares current resumes with prior applicants who are prdominantly male, and generates a result that prefer white cisgender male, excluding women and other minorities.
